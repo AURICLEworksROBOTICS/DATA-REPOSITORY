@@ -7,4 +7,4 @@ data :
 STARTUP IS MAKING A HUMANOID ROBOT NAMED AURICLE & IT IS INSPIRED BY HANSON ROBOTICS
 
 
-CLICK THIS LINK TO SEE ARCHIVE LIBRARY OF AURICLE ROBOTICS : https://sites.google.com/view/auriclearchivelibrary/home
+CLICK THIS LINK TO SEE ARCHIVE LIBRARY OF AURICLE ROBOTICS :  https://sites.google.com/view/auriclearchivelibrary/home
